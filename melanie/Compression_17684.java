@@ -2,7 +2,7 @@ import java.util.*;
 
 // 17684. [3차] 압축
 
-class Solution {
+class Compression_17684 {
     public int[] solution(String msg) {
         ArrayList<Integer> answer = new ArrayList<>();
         
