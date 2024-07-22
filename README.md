@@ -9,3 +9,4 @@
 | 2024-07-18(목) | programmers | 92335 | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) |
 | 2024-07-19(금) | programmers | 17677 | [\[1차\] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) |
 | 2024-07-22(월) | programmers | 42888 | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) |
+| 2024-07-23(화) | programmers | 49994 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) |
