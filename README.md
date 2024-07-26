@@ -12,3 +12,4 @@
 | 2024-07-23(화) | programmers | 49994 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) |
 | 2024-07-24(수) | programmers | 132265 | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) |
 | 2024-07-25(목) | programmers | 49993 | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) |
+| 2024-07-26(금) | programmers | 64065 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |
