@@ -15,3 +15,4 @@
 | 2024-07-26(금) | programmers | 64065 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) |
 | 2024-07-29(월) | programmers | 17679 | [\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |
 | 2024-07-30(화) | programmers | 131704 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) |
+| 2024-07-31(수) | programmers | 12899 | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
