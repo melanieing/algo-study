@@ -19,6 +19,7 @@ public class PostBox_131704 {
             } else { // 실을 수 없으면 보조 컨테이너에 넣기
                 subCon.push(i);
             }
+            // 보조 컨테이너도 확인하기
             while (!subCon.empty()) {
                 if (subCon.peek() == order[num]) { // 실을 수 있으면 싣기
                     subCon.pop();
