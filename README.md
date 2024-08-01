@@ -16,4 +16,4 @@
 | 2024-07-29(월) | programmers | 17679 | [\[1차\] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |
 | 2024-07-30(화) | programmers | 131704 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) |
 | 2024-07-31(수) | programmers | 12899 | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
-| 2024-08-01(목) | programmers | 12899 | [\[3차\] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |
+| 2024-08-01(목) | programmers | 17687 | [\[3차\] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |
