@@ -1,3 +1,4 @@
+// 17687. [3차] n진수 게임
 public class NNumberGame_17687 {
     public static void main(String[] args) {
         int n = 16; // 진법
@@ -12,23 +13,17 @@ public class NNumberGame_17687 {
     public String solution(int n, int t, int m, int p) {
         StringBuilder totalNum = new StringBuilder();
         StringBuilder answer = new StringBuilder();
-        int order = 1;
-        for (int i = 0; i <= t*m; i++) {
+
+        // 해당 진법의 수로 변환한 문자열 만들기
+        for (int i = 0; i <= t * m; i++) {
             String radixNum = Integer.toString(i, n);
-//            System.out.println(radixNum.toUpperCase());
             totalNum.append(radixNum.toUpperCase());
         }
-        System.out.println("totalNum : " + totalNum);
-        for (int i = 1; i < totalNum.length(); i++) {
-            if (i % m == (p-1)) {
-                answer.append(totalNum.charAt(i-1));
-                System.out.print("i = " + i + " , ");
-                System.out.println("answer : " + answer.toString());
-            }
-            if (answer.length() == t) {
-                System.out.println("answer의 길이 : " + answer.length());
-                break;
-            }
+
+        // 튜브의 순서에 해당하는 문자만 뽑아서 이어붙이기
+        for (int i = 0; i < totalNum.length(); i++) {
+            if (i % m == (p-1)) answer.append(totalNum.charAt(i));
+            if (answer.length() == t) break; // 구할 갯수에 도달하면 끝내기
         }
 
         return answer.toString();
