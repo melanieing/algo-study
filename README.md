@@ -17,3 +17,4 @@
 | 2024-07-30(화) | programmers | 131704 | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) |
 | 2024-07-31(수) | programmers | 12899 | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899) |
 | 2024-08-01(목) | programmers | 17687 | [\[3차\] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |
+| 2024-08-02(금) | programmers | 148653 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) |
