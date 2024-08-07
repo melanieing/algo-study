@@ -20,3 +20,4 @@
 | 2024-08-02(금) | programmers | 148653 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) |
 | 2024-08-05(월) | programmers | 154538 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) |
 | 2024-08-06(화) | programmers | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
+| 2024-08-07(수) | programmers | 154539 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) |
