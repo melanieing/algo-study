@@ -21,3 +21,4 @@
 | 2024-08-05(월) | programmers | 154538 | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) |
 | 2024-08-06(화) | programmers | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) |
 | 2024-08-07(수) | programmers | 154539 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) |
+| 2024-08-08(목) | programmers | 12949 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) |
