@@ -23,3 +23,4 @@
 | 2024-08-07(수) | programmers | 154539 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) |
 | 2024-08-08(목) | programmers | 12949 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) |
 | 2024-08-09(금) | programmers | 72411 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |
+| 2024-08-12(월) | programmers | 250121 | [\[PCCE 기출문제\] 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) |
