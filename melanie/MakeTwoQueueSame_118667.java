@@ -52,6 +52,6 @@ public class MakeTwoQueueSame_118667 {
             moves++;
         }
 
-        return (sum1 == targetSum) ? moves : -1; // 불가능할 경우 - 반환
+        return (sum1 == targetSum) ? moves : -1; // 불가능할 경우 -1 반환
     }
 }
