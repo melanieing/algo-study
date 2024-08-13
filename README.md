@@ -24,3 +24,4 @@
 | 2024-08-08(목) | programmers | 12949 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949) |
 | 2024-08-09(금) | programmers | 72411 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |
 | 2024-08-12(월) | programmers | 250121 | [\[PCCE 기출문제\] 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) |
+| 2024-08-13(화) | programmers | 12913 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) |
