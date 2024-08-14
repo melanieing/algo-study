@@ -25,3 +25,4 @@
 | 2024-08-09(금) | programmers | 72411 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |
 | 2024-08-12(월) | programmers | 250121 | [\[PCCE 기출문제\] 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) |
 | 2024-08-13(화) | programmers | 12913 | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913) |
+| 2024-08-14(수) | programmers | 250125 | [\[PCCE 기출문제\] 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) |
