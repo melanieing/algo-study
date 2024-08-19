@@ -28,3 +28,4 @@
 | 2024-08-14(수) | programmers | 250125 | [\[PCCE 기출문제\] 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) |
 | 2024-08-15(목) | programmers | 250137 | [\[PCCP 기출문제\] 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) |
 | 2024-08-16(금) | programmers | 258712 | [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) |
+| 2024-08-19(월) | programmers | 12900 | [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) |
