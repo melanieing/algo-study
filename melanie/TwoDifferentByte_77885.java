@@ -13,17 +13,34 @@ public class TwoDifferentByte_77885 {
         int idx = 0;
 
         for (long number : numbers) {
-            answer[idx++] = f(number);
+            answer[idx++] = f2(number); // number보다 크고 number와 비트가 1 ~ 2개 다른 수들 중에서 제일 작은 수
         }
         return answer;
     }
 
-    private long f(long number) { // number보다 크고 number와 비트가 1 ~ 2개 다른 수들 중에서 제일 작은 수 (10, 11번 케이스 시간초과)
-        for (long i = number + 1; ; i++) {
+    private long f(long number) { // 10, 11번 케이스 시간초과
+        if (number % 2L == 0) return number + 1;
+        for (long i = number; ; i++) {
             long xorResult = number ^ i;
-            if (Long.bitCount(xorResult) == 1 || Long.bitCount(xorResult) == 2) {
+            if (Long.bitCount(xorResult) == 1L || Long.bitCount(xorResult) == 2L) {
                 return i;
             }
+        }
+    }
+
+    private long f2(long number) { // 모든 케이스 통과
+        String binNum = Long.toBinaryString(number);
+        if (number % 2L == 0) { // 짝수일 경우
+            return number + 1;
+        } else {
+            int idx = binNum.lastIndexOf("0");
+            String tmp = "";
+            if (idx != -1) {
+                tmp = binNum.substring(0, idx) + "1" + binNum.substring(idx+1);
+            } else {
+                tmp = "1" + binNum;
+            }
+            return Long.parseLong(tmp, 2);
         }
     }
 
