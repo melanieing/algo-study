@@ -30,3 +30,4 @@
 | 2024-08-16(금) | programmers | 258712 | [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) |
 | 2024-08-19(월) | programmers | 12900 | [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) |
 | 2024-08-20(화) | programmers | 77885 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |
+| 2024-08-21(수) | programmers | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |
