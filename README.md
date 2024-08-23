@@ -31,3 +31,5 @@
 | 2024-08-19(월) | programmers | 12900 | [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900) |
 | 2024-08-20(화) | programmers | 77885 | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) |
 | 2024-08-21(수) | programmers | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |
+| 2024-08-22(목) | programmers | 42883 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |
+| 2024-08-23(금) | programmers | 178870 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |
