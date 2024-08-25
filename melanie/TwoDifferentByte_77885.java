@@ -29,18 +29,12 @@ public class TwoDifferentByte_77885 {
     }
 
     private long f2(long number) { // 모든 케이스 통과
-        String binNum = Long.toBinaryString(number);
-        if (number % 2L == 0) { // 짝수일 경우
-            return number + 1;
-        } else {
-            int idx = binNum.lastIndexOf("0");
-            String tmp = "";
-            if (idx != -1) {
-                tmp = binNum.substring(0, idx) + "1" + binNum.substring(idx+1);
-            } else {
-                tmp = "1" + binNum;
+        for (long i = 1; ; i <<= 1) { // 1부터 비트를 왼쪽으로 이동
+            if ((number & i) == 0) { // 0을 찾으면 (AND 연산)
+                number |= i; // 해당 비트를 1로 바꾸기 (OR 연산)
+                number ^= (i >> 1); // 그 이전의 비트는 0으로 바꿔주기 (XOR 연산)
+                return number;
             }
-            return Long.parseLong(tmp, 2);
         }
     }
 
