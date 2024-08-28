@@ -35,3 +35,4 @@
 | 2024-08-23(금) | programmers | 178870 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |
 | 2024-08-26(월) | programmers | 152996 | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) |
 | 2024-08-27(화) | programmers | 155651 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
+| 2024-08-28(수) | programmers | 135807 | [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) |
