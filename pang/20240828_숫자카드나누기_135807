@@ -1,0 +1,64 @@
+class Solution {
+    //유클리드 호제법 (최대공약수 구하는 방법)
+    // a, b에 대해 a를 b로 나눈 나머지를 r이라 하면,
+    // a, b의 최대공약수와 b와 r의 최대 공약수는 같다.
+    // 60, 48의 최대공약수
+    // 60 % 48 = 12 => 48 % 12 => 0 => 12 : 최대공약수
+    public int solution(int[] arrayA, int[] arrayB) {
+        //1 5
+        //10 1
+        // 7 3
+        //10 5
+        //5 10
+
+        //arrayA와 arrayB의 최대공약수를 구하고 그 중 큰걸 리턴
+        //둘 중 하나라도 1이면 0리턴
+        int answerA = arrayA[0];
+        for (int i = 1; i < arrayA.length; i++) {
+            if (arrayA[i] > answerA) {
+                answerA = getMaxNum(arrayA[i], answerA);
+            } else {
+                answerA = getMaxNum(arrayA[i], answerA);
+            }
+        }
+        
+        for (int b : arrayB) {
+            if (b >= answerA && b % answerA == 0) {
+                answerA = 0;
+                break;
+            }
+        }
+        
+        int answerB = arrayB[0];
+        for (int i = 1; i < arrayB.length; i++) {
+            if (arrayB[i] > answerB) {
+                answerB = getMaxNum(arrayB[i], answerB);
+            } else {
+                answerB = getMaxNum(arrayB[i], answerB);
+            }
+        }
+        
+        for (int a : arrayA) {
+            if (a >= answerB && a % answerB == 0) {
+                answerB = 0;
+                break;
+            }
+        }
+        
+        return Math.max(answerA, answerB);
+    }
+
+    //최대 공약수 구하는 함수
+    // a >= b
+    static int getMaxNum(int a, int b) {
+        int num1 = a;
+        int num2 = b;
+        while (true) {
+            int num3 = num1 % num2;
+            
+            if (num3 == 0) return num2;
+            num1 = num2;
+            num2 = num3;
+        }
+    }
+}
