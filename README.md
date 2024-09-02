@@ -38,3 +38,4 @@
 | 2024-08-28(수) | programmers | 135807 | [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) |
 | 2024-08-29(목) | programmers | 12978 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) |
 | 2024-08-30(금) | programmers | 77485 | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |
+| 2024-09-02(월) | programmers | 181916 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) |
