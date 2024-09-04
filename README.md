@@ -39,3 +39,4 @@
 | 2024-08-29(목) | programmers | 12978 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) |
 | 2024-08-30(금) | programmers | 77485 | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |
 | 2024-09-02(월) | programmers | 181916 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) |
+| 2024-09-03(화) | programmers | 258709 | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) |
