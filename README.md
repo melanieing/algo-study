@@ -40,3 +40,5 @@
 | 2024-08-30(금) | programmers | 77485 | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |
 | 2024-09-02(월) | programmers | 181916 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) |
 | 2024-09-03(화) | programmers | 258709 | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) |
+| 2024-09-04(수) | programmers | 154540 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) |
+| 2024-09-05(목) | programmers | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) |
