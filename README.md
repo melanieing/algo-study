@@ -42,3 +42,4 @@
 | 2024-09-03(화) | programmers | 258709 | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) |
 | 2024-09-04(수) | programmers | 154540 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) |
 | 2024-09-05(목) | programmers | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) |
+| 2024-09-06(금) | programmers | 340202 | [\[PCCE 기출문제\] 6번 / 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202) |
