@@ -45,3 +45,6 @@
 | 2024-09-06(금) | programmers | 340202 | [\[PCCE 기출문제\] 6번 / 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202) |
 | 2024-09-09(월) | programmers | 340199 | [\[PCCE 기출문제\] 9번 / 지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) |
 | 2024-09-10(화) | programmers | 159993 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |
+| 2024-09-11(수) | programmers | 67257 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) |
+| 2024-09-12(목) | programmers | 12936 | [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) |
+| 2024-09-13(금) | programmers | 147354 | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) |
