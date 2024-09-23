@@ -48,3 +48,4 @@
 | 2024-09-11(수) | programmers | 67257 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) |
 | 2024-09-12(목) | programmers | 12936 | [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) |
 | 2024-09-13(금) | programmers | 147354 | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) |
+| 2024-09-23(월) | programmers | 12923 | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) |
