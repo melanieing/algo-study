@@ -51,3 +51,7 @@
 | 2024-09-23(월) | programmers | 12923 | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) |
 | 2024-09-24(화) | programmers | 169199 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
 | 2024-09-25(수) | programmers | 12905 | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) |
+| 2024-09-26(목) | programmers | 142085 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) |
+| 2024-09-27(금) | programmers | 12946 | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) |
+| 2024-09-30(월) | programmers | 62048 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |
+| 2024-10-01(화) | programmers | 134239 | [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) |
