@@ -55,3 +55,6 @@
 | 2024-09-27(금) | programmers | 12946 | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) |
 | 2024-09-30(월) | programmers | 62048 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |
 | 2024-10-01(화) | programmers | 134239 | [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) |
+| 2024-10-02(수) | programmers | 340200 | [\[PCCE 기출문제\] 8번 / 닉네임 규칙](https://school.programmers.co.kr/learn/courses/30/lessons/340200) |
+| 2024-10-03(목) | programmers | 340201 | [\[PCCE 기출문제\] 7번 / 버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201) |
+| 2024-10-04(금) | programmers | 250126 | [\[PCCE 기출문제\] 8번 / 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126) |
