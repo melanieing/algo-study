@@ -33,3 +33,28 @@
 | 2024-08-21(수) | programmers | 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) |
 | 2024-08-22(목) | programmers | 42883 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) |
 | 2024-08-23(금) | programmers | 178870 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) |
+| 2024-08-26(월) | programmers | 152996 | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) |
+| 2024-08-27(화) | programmers | 155651 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
+| 2024-08-28(수) | programmers | 135807 | [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) |
+| 2024-08-29(목) | programmers | 12978 | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) |
+| 2024-08-30(금) | programmers | 77485 | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) |
+| 2024-09-02(월) | programmers | 181916 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) |
+| 2024-09-03(화) | programmers | 258709 | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) |
+| 2024-09-04(수) | programmers | 154540 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) |
+| 2024-09-05(목) | programmers | 60058 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) |
+| 2024-09-06(금) | programmers | 340202 | [\[PCCE 기출문제\] 6번 / 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202) |
+| 2024-09-09(월) | programmers | 340199 | [\[PCCE 기출문제\] 9번 / 지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) |
+| 2024-09-10(화) | programmers | 159993 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |
+| 2024-09-11(수) | programmers | 67257 | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) |
+| 2024-09-12(목) | programmers | 12936 | [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936) |
+| 2024-09-13(금) | programmers | 147354 | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) |
+| 2024-09-23(월) | programmers | 12923 | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923) |
+| 2024-09-24(화) | programmers | 169199 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
+| 2024-09-25(수) | programmers | 12905 | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905) |
+| 2024-09-26(목) | programmers | 142085 | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) |
+| 2024-09-27(금) | programmers | 12946 | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) |
+| 2024-09-30(월) | programmers | 62048 | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) |
+| 2024-10-01(화) | programmers | 134239 | [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) |
+| 2024-10-02(수) | programmers | 340200 | [\[PCCE 기출문제\] 8번 / 닉네임 규칙](https://school.programmers.co.kr/learn/courses/30/lessons/340200) |
+| 2024-10-03(목) | programmers | 340201 | [\[PCCE 기출문제\] 7번 / 버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201) |
+| 2024-10-04(금) | programmers | 250126 | [\[PCCE 기출문제\] 8번 / 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126) |
