@@ -1,9 +1,6 @@
 // 12905. 가장 큰 정사각형 찾기
 public class FindBiggestSquare_12905 {
 
-    private static final int[] dx = {0,0,-1,1};
-    private static final int[] dy = {1,-1,0,0};
-
     public static void main(String[] args) {
         int[][] board = {{0,1,1,1},{1,1,1,1},{1,1,1,1},{0,0,1,0}};
 
