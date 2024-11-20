@@ -59,3 +59,5 @@
 | 2024-10-03(목) | programmers | 340201 | [\[PCCE 기출문제\] 7번 / 버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201) |
 | 2024-10-04(금) | programmers | 250126 | [\[PCCE 기출문제\] 8번 / 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126) |
 | 2024-11-18(월) | programmers | 172927 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |
+| 2024-11-19(화) | programmers | 140107 | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) |
+| 2024-11-20(수) | programmers | 42890 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) |
