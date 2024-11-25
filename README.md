@@ -63,3 +63,4 @@
 | 2024-11-20(수) | programmers | 42890 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) |
 | 2024-11-21(목) | programmers | 340212 | [\[PCCP 기출문제\] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) |
 | 2024-11-22(금) | programmers | 176962 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |
+| 2024-11-25(월) | programmers | 150368 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
