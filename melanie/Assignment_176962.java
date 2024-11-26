@@ -3,19 +3,19 @@ import org.junit.Test;
 
 import java.util.*;
 
-// 176962. 과제어쩌구하는중
+// 176962. 과제 진행하기
 public class Assignment_176962 {
-    class Assignment {
+    class Task {
         String name;
         int start, playtime;
 
-        public Assignment(String name, int start, int playtime) {
+        public Task(String name, int start, int playtime) {
             this.name = name;
             this.start = start;
             this.playtime = playtime;
         }
 
-        public Assignment(String name, int playtime) {
+        public Task(String name, int playtime) {
             this.name = name;
             this.playtime = playtime;
         }
@@ -24,7 +24,7 @@ public class Assignment_176962 {
         List<String> answerList = new ArrayList<>();
 
         // 과제들을 시작시간 오름차순으로 저장
-        PriorityQueue<Assignment> pq = new PriorityQueue<>(
+        PriorityQueue<Task> tasks = new PriorityQueue<>(
                 Comparator.comparingInt(o -> o.start)
         );
 
@@ -34,31 +34,40 @@ public class Assignment_176962 {
             int start = convertToMinute(startTime);
             int playTime = Integer.parseInt(plans[i][2]);
 
-            pq.add(new Assignment(name, start, playTime));
+            tasks.add(new Task(name, start, playTime));
         }
 
-        Stack<Assignment> remainingAssignments = new Stack<>();
-
-        while (!pq.isEmpty()) {
-            Assignment curTask = pq.poll();
-
-            String curName = curTask.name;
-            int curStart = curTask.start;
-            int curPlaytime = curTask.playtime;
-
-            // 현재시각
-            int curTime = curStart;
-
-            // 새로운 과제가 남아있는 경우
-            if (!pq.isEmpty()) {
-                Assignment nextTask = pq.peek();
+        Stack<Task> remainingTasks = new Stack<>();
+        List<String> finishedTasks = new ArrayList<>();
 
 
+        Task curTask = tasks.poll();
+        int time = curTask.start;
+        while (!tasks.isEmpty()) {
+            time += curTask.playtime;
+            Task nextTask = tasks.peek();
+
+            if (time > nextTask.start) { // 현재 과제의 마치는 시간이 다음 과제의 시작 시간보다 크면
+                curTask.playtime = time - nextTask.start;
+                remainingTasks.push(curTask);
+            } else { // 작거나 같으면
+                finishedTasks.add(curTask.name);
+                if (!remainingTasks.empty()) {
+                    curTask = remainingTasks.pop();
+                    continue;
+                }
             }
+            curTask = tasks.poll();
+            time = curTask.start;
 
         }
 
-        return answer;
+        finishedTasks.add(curTask.name);
+        while (!remainingTasks.empty()) {
+            finishedTasks.add(remainingTasks.pop().name);
+        }
+
+        return finishedTasks.toArray(new String[0]);
     }
 
     int convertToMinute(String time) {
