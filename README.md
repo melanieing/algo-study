@@ -65,3 +65,4 @@
 | 2024-11-22(금) | programmers | 176962 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |
 | 2024-11-25(월) | programmers | 150368 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
 | 2024-11-26(화) | programmers | 12952 | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) |
+| 2024-11-27(수) | programmers | 181187 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) |
