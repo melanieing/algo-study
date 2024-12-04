@@ -70,3 +70,4 @@
 | 2024-11-29(금) | programmers | 181188 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |
 | 2024-12-02(월) | programmers | 131130 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) |
 | 2024-12-03(화) | programmers | 340198 | [\[PCCE 기출문제\] 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) |
+| 2024-12-04(수) | programmers | 250136 | [\[PCCP 기출문제\] 2번 / 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
