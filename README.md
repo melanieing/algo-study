@@ -71,3 +71,4 @@
 | 2024-12-02(월) | programmers | 131130 | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) |
 | 2024-12-03(화) | programmers | 340198 | [\[PCCE 기출문제\] 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) |
 | 2024-12-04(수) | programmers | 250136 | [\[PCCP 기출문제\] 2번 / 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) |
+| 2024-12-05(목) | programmers | 340213 | [\[PCCP 기출문제\] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) |
