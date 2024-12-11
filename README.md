@@ -74,3 +74,4 @@
 | 2024-12-05(목) | programmers | 340213 | [\[PCCP 기출문제\] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) |
 | 2024-12-06(금) | programmers | 92342 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |
 | 2024-12-09(월) | programmers | 72412 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
+| 2024-12-12(목) | programmers | 150369 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |
