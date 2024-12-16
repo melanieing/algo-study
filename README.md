@@ -75,3 +75,4 @@
 | 2024-12-06(금) | programmers | 92342 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |
 | 2024-12-09(월) | programmers | 72412 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
 | 2024-12-12(목) | programmers | 150369 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |
+| 2024-12-16(월) | programmers | 120956 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) |
