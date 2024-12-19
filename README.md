@@ -76,3 +76,4 @@
 | 2024-12-09(월) | programmers | 72412 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
 | 2024-12-12(목) | programmers | 150369 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |
 | 2024-12-16(월) | programmers | 120956 | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) |
+| 2024-12-19(목) | programmers | 42860 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) |
