@@ -79,3 +79,4 @@
 | 2024-12-19(목) | programmers | 42860 | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) |
 | 2024-12-23(월) | programmers | 161989 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |
 | 2024-12-26(목) | programmers | 92334 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) |
+| 2024-12-30(월) | programmers | 340211 | [\[PCCP 기출문제\] 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) |
