@@ -81,3 +81,5 @@
 | 2024-12-26(목) | programmers | 92334 | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) |
 | 2024-12-30(월) | programmers | 340211 | [\[PCCP 기출문제\] 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) |
 | 2025-01-02(목) | programmers | 12902 | [3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902) |
+| 2025-01-06(월) | programmers | 161990 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) |
+| 2025-01-09(목) | programmers | 178871 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) |
